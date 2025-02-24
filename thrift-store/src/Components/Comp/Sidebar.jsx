@@ -42,7 +42,7 @@ const Text = styled.div`
   padding: 0 20px;
 
   &:hover {
-    color: #ff6600;
+    color: #000;
     transform: scale(1.1);
     text-shadow: 0 0 20px rgba(255, 102, 0, 0.8), 0 0 40px rgba(255, 102, 0, 0.6);
   }
