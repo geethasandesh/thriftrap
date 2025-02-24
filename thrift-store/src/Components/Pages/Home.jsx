@@ -10,7 +10,7 @@ import Banner from "../Comp/Banner"
 function Home() {
   return (
     <div>
-      
+      hi
       <FashionCollection/>
       <ProductCollection/>
       <HScroll/>
